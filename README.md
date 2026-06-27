@@ -1,45 +1,63 @@
 <img width="1918" height="916" alt="image" src="https://github.com/user-attachments/assets/f7eee9c5-1599-44cb-af18-439ca46f7622" />
 # Vaishnavi Bhise Portfolio
 
-A personal portfolio website for Vaishnavi Bhise, presenting AI engineering, data science, and web development skills with a polished, responsive design.
+A modern, responsive personal portfolio website showcasing AI engineering, data science, and web development skills.
+
+## Live Demo
+
+- Local preview: http://localhost:8000
+- GitHub repository: https://github.com/VaishnaviBhise05/vaishnavi-portfolio.git
 
 ## About
 
-This portfolio showcases:
+This portfolio highlights:
 - AI and data science experience
-- Projects with machine learning, IoT, and dashboard development
-- Internship experience and certifications
-- Professional contact details and links
+- Projects in machine learning, IoT, and dashboard development
+- Internships, certifications, and achievements
+- Professional contact information and social links
 
-## Live Preview
+## Sections Included
 
-Open `index.html` in a browser, or deploy using GitHub Pages for a public URL.
+- Hero section with profile photo and introduction
+- About me
+- Education and skills
+- Projects and experience
+- Certifications and achievements
+- Contact details
+
+## Tech Stack
+
+- HTML
+- CSS
+- JavaScript
 
 ## Files
 
-- `index.html` — main website structure
-- `styles.css` — website styles and layout
-- `script.js` — runtime behavior for dynamic content
-- `vaishnavi-photo.jpeg` — profile image displayed on the hero section
-- `profile-photo.svg` — placeholder image file
+- [index.html](index.html) — main website structure
+- [styles.css](styles.css) — styling and responsive layout
+- [script.js](script.js) — small interactive behavior
+- [vaishnavi-photo.jpeg](vaishnavi-photo.jpeg) — profile image
 
-## Features
+## How to View Locally
 
-- Responsive layout for desktop and mobile
-- Professional hero section with photo and summary
-- Project, education, skills, experience, certifications, and contact sections
-- Clean dark theme with accent styling
-- GitHub and LinkedIn links included
+```bash
+cd "C:\Users\vaish\OneDrive\Desktop\Portfolio"
+python -m http.server 8000
+```
 
-## Technology Stack
+Then open http://localhost:8000
 
-- HTML, CSS, JavaScript
-- Responsive design best practices
-- Visual styling using gradients, cards, and shadow effects
-- Static website ready for GitHub Pages deployment
+## Deploy to GitHub Pages
 
-## Project Highlights
+1. Create a GitHub repository.
+2. Upload the project files and commit them.
+3. Push to the main branch.
+4. Open Settings → Pages in GitHub.
+5. Enable GitHub Pages and use the published URL to share your portfolio.
 
-- Wireless Solar EV Charging Station with a real-time monitoring dashboard
-- Microgrid Monitoring System for energy data visualization
-- Python-based Library Management System for book tracking and automation
+## Contact
+
+- Email: vaishnavibhise1011@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vaishnavi-bhise-26046131b
+- GitHub: https://github.com/VaishnaviBhise05
+
