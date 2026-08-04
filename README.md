@@ -6,7 +6,7 @@ A personal portfolio site built with React, Vite, and Tailwind CSS — featuring
 terminal-inspired hero with a live neural-network animation, scroll-triggered
 skill graphs, and project cards linking straight to GitHub repos.
 
-🔗 **Live site:** _add your Vercel/Netlify URL here once deployed_
+🔗 **Live site:** https://vaishnavi-portfolio-inky.vercel.app/
 
 ---
 
