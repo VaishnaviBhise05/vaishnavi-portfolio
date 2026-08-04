@@ -47,9 +47,7 @@ npm run preview
 
 ## Deployment
 
-This project deploys cleanly to [Vercel](https://vercel.com) or
-[Netlify](https://netlify.com) with zero configuration — just connect the
-repo and deploy.
+This project deploys cleanly to [Vercel](https://vaishnavi-portfolio-inky.vercel.app/) 
 
 ## Notes
 
